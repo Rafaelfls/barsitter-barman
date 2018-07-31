@@ -1,0 +1,7 @@
+{
+  "name": "BarSitter-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

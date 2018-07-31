@@ -1,0 +1,93 @@
+{
+    "Drinks": [
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj01",
+            "name": "Caipiroska de Kiwi"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj02",
+            "name": "Caipiroska de Limão"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj03",
+            "name": "Caipiroska de Abacaxi"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj04",
+            "name": "Caipiroska de Maracuja"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj05",
+            "name": "Caipiroska de Morango"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj06",
+            "name": "Caipirinha de Kiwi"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj07",
+            "name": "Caipirinha de Limão"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj08",
+            "name": "Caipirinha de Abacaxi"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj09",
+            "name": "Caipirinha de Morango"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj10",
+            "name": "Caipirinha de Maracuja"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj11",
+            "name": "Saquerinha de Kiwi"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj12",
+            "name": "Saquerinha de Limão"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj13",
+            "name": "Saquerinha de Abacaxi"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj14",
+            "name": "Saquerinha de Morango"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj15",
+            "name": "Saquerinha de Maracuja"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj16",
+            "name": "Caipirinha de Rum de Kiwi"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj17",
+            "name": "Caipirinha de Rum de Limão"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj18",
+            "name": "Caipirinha de Rum de Abacaxi"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj19",
+            "name": "Caipirinha de Rum de Morango"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj20",
+            "name": "Caipirinha de Rum de Maracuja"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj21",
+            "name": "Mojito"
+        },
+        {
+        	"id": "jy4tr-4283d-42c9v-2hj22",
+            "name": "Cuba Libre"
+        }
+
+    ]
+}
